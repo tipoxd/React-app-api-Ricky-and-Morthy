@@ -67,7 +67,7 @@ export function EmojiSearch() {
 
             </div>
 
-            <div className="[ grid-cols-1 ][ sm:grid-cols-2 ] [ md:grid-cols-4  ] [ lg:grid-cols-6 ] grid gap-5">{Json_i}</div>
+            <div className="[ grid-cols-1  ][ sm:grid-cols-2 ] [ md:grid-cols-4  ] [ lg:grid-cols-6 ] grid gap-5">{Json_i}</div>
         </div>
 
     );
